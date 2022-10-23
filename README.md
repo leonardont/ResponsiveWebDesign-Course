@@ -1,9 +1,7 @@
-# Leonardo's HTML and CSS Portfolio
-My personal HTML and CSS portfolio page. <br>
+<h1 align="center">Leonardo's HTML and CSS Portfolio</h1>
+<p align="center">My personal HTML and CSS portfolio page.</p><br>
 <br>
-This project and the ones referenced inside it were done as part of the freeCodeCamp course of Responsive Web Design, in which I learned and studied the HTML and CSS languages. <br>
+<p align="center">This project and the ones referenced inside it were done as part of the freeCodeCamp course of Responsive Web Design, in which I learned and studied the HTML and CSS languages.</p><br>
 <br>
-NOTE: This portfolio does not contain JavaScript or other languages, since it is exclusively dedicated to HTML and CSS. <br>
-<br>
-Credits: <br>
-Leonardo Nabarro Tonezer - Coding
+<p align="center">Credits:</p><br>
+<p align="center">Leonardo Nabarro Tonezer - Coding and Design</p>
