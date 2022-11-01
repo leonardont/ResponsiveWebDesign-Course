@@ -1,4 +1,4 @@
-<h1 align="center">Leonardo's freeCodeCamp Responsive Web Design portfolio</h1>
+<h1 align="center">Leonardo's freeCodeCamp Responsive Web Design Portfolio</h1>
 <p align="center">My personal freeCodeCamp Responsive Web Design portfolio page.</p><br>
 <br>
 <p align="center">This project and the ones referenced inside it were done as part of the freeCodeCamp course of Responsive Web Design, in which I learned and studied the HTML and CSS languages.</p><br>
